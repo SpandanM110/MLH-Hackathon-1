@@ -803,7 +803,7 @@ section {
 .more-services {
   padding-top: 20px;
 }
-
+/*
 .more-services .card {
   border: 0;
   padding: 160px 20px 20px 20px;
@@ -837,7 +837,7 @@ section {
 .more-services .card-text {
   color: #5e5e5e;
 }
-
+*/
 .more-services .read-more a {
   color: #777777;
   text-transform: uppercase;
