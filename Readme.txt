@@ -9,7 +9,7 @@ The aim of this project was to make a systematic resources and data at one stop 
 
 Our team members include
 1) Spandan Mukherjee(SpandanM110)
-2) Dev Krishna Jhawar(Empyrean101)
+2) Dev Krishna Jhawar(Empyrean1001)
 3) Gokul Menon (Belvix)
 
 have worked on this project hope you like and appreciate our work.
