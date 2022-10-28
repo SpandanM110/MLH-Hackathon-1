@@ -35,6 +35,7 @@ h6 {
 
 .mode {
   float:right;
+  
 }
 .change {
   cursor: pointer;
@@ -49,6 +50,52 @@ h6 {
   background-color: #222;
   color: #e6e6e6;
 }
+
+
+.switch{
+  position: relative;
+  display: inline-block;
+  width 60px;
+  height: 34px;
+}
+
+.switch input{
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider{
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #9A86FD;
+  border-radius: 34px;
+  -webkit-transition: .4s;
+  transition: .4s;
+
+  
+}
+
+
+
+.slider::before{
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  border-radius: 50%;
+  background-color:white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+
 
 
 
@@ -803,7 +850,7 @@ section {
 .more-services {
   padding-top: 20px;
 }
-/*
+
 .more-services .card {
   border: 0;
   padding: 160px 20px 20px 20px;
@@ -837,7 +884,7 @@ section {
 .more-services .card-text {
   color: #5e5e5e;
 }
-*/
+
 .more-services .read-more a {
   color: #777777;
   text-transform: uppercase;
