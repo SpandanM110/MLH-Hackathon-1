@@ -8,22 +8,13 @@ college going students.
 The aim of this project was to make a systematic resources and data at one stop destination.
 
 Our team members include
-1) Spandan Mukherjee(me)
-2) Dev Krishna Jhawar
-3) Gokul Menon
+1) Spandan Mukherjee(SpandanM110)
+2) Dev Krishna Jhawar(Empyrean101)
+3) Gokul Menon (Belvix)
 
 have worked on this project hope you like and appreciate our work.
  
                     Thank You!!
-
-
-
-
-
-
-
-
-
 
 
 Thanks for downloading this template!
